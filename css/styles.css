@@ -1,0 +1,115 @@
+a {
+    color: #11999E;
+    margin: 30px;
+    text-decoration: none;
+}
+a:hover {
+    color: #ffffff;
+}
+.copyright {
+    color: #E9EFC0;
+}
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+.bottomcloud {
+    position: absolute;
+    left: 250px;
+}
+.bottom-div {
+    background-color: #83BD75;
+    padding: 50px 0 50px 0;
+    height: 60px;
+    margin: 0px;
+}
+.btn {
+    background: #95e062;
+    background-image: -webkit-linear-gradient(top, #95e062, #65a332);
+    background-image: -moz-linear-gradient(top, #95e062, #65a332);
+    background-image: -ms-linear-gradient(top, #95e062, #65a332);
+    background-image: -o-linear-gradient(top, #95e062, #65a332);
+    background-image: linear-gradient(to bottom, #95e062, #65a332);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Signika', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #a2a868;
+    background-image: -webkit-linear-gradient(top, #a2a868, #b8c734);
+    background-image: -moz-linear-gradient(top, #a2a868, #b8c734);
+    background-image: -ms-linear-gradient(top, #a2a868, #b8c734);
+    background-image: -o-linear-gradient(top, #a2a868, #b8c734);
+    background-image: linear-gradient(to bottom, #a2a868, #b8c734);
+    text-decoration: none;
+  }
+h1 {
+    margin: 50px auto 0px auto;
+    font-family: 'Indie Flower', cursive;
+    font-size: 4em;
+    color: #66BFBF;
+}
+h2 {
+    font-family: 'Signika', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3 {
+    margin-top: 0;
+    margin-bottom: 0px;
+    font-family: 'Signika', sans-serif;
+    color: #11999E;
+}
+hr {
+    border-style: dotted none none none;
+    width: 5%;
+    border-width: 6px;
+    border-color: #83BD75;
+    margin: 100px auto 0;
+}
+.last-para {
+    margin: 30px;
+}
+.middle-div {
+    background-color: #B4E197;
+    padding: 50px 0;
+}
+.modelling_img{
+    width: 150px;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile_picture {
+    border-radius: 100%;
+    width: 200px;
+}
+.programming_img {
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.topcloud {
+    position: relative;
+    left: 200px;
+}
+.top-div {
+    background-color: #E9EFC0;
+    margin: 0px;
+    padding-top: 100px;
+}
